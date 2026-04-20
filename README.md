@@ -23,4 +23,4 @@
 
 1. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/hunter812/fb2-generator.git
+git clone https://github.com/ivanpalko/fb2-generator

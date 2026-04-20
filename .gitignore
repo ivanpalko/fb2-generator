@@ -1,0 +1,15 @@
+# Игнорировать папку с данными
+/data/*
+!/data/.gitkeep
+
+# Игнорировать временные файлы
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Игнорировать файлы конфигурации IDE
+.vscode/
+.idea/
+*.sublime-*
